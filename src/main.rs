@@ -1,4 +1,3 @@
-
 fn call_something() -> usize {
     do_something().unwrap()
 }
